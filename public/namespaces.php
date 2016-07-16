@@ -11,4 +11,6 @@ return [
     'App\Services\Models'   => __DIR__ . '/../app/services/models/',
     'App\Users\Controllers' => __DIR__ . '/../app/modules/users/controllers/',
     'App\Users\Models'      => __DIR__ . '/../app/modules/users/models/',
+    'App\Clients\Controllers' => __DIR__ . '/../app/modules/clients/controllers/',
+    'App\Clients\Models'      => __DIR__ . '/../app/modules/clients/models/',
 ];
